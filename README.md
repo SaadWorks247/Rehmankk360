@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I’m a **Full-Stack AI Engineer with 4+ years of experience** building scalable, high-impact products for startups and established companies.
+I’m a **Full-Stack AI Engineer with 6+ years of experience** building scalable, high-impact products for startups and established companies.
 
 I specialize in:
 - Taking products **from zero → thousands of users**
