@@ -1,11 +1,7 @@
-# Abdul Rehman
+# Saad Ali
 ### Full-Stack AI Engineer
 
-📍 Islamabad, Pakistan  
-🌐 Portfolio: [rehmandev.work](https://rehmandev.work)
-
 ---
-
 
 ## 🚀 About Me
 
